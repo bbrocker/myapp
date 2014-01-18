@@ -1,6 +1,6 @@
 == README
 
-Rails - myapp - Heroku stark-stream-9087 - all 
+Rails Tutorial - myapp - Heroku stark-stream-9087 - all Postgres 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
